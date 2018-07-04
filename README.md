@@ -1,7 +1,7 @@
 # Finding the Best Deal on Food using Data Science:
 ### What is this?
 
-This is companion code explaining the solution presented in [this article](https://www.upgado.com/2018/06/22/finding-best-meals.html) on my website. If you haven't, read the article for a detailed explanation of the purpose and design choices behind this program.
+This is companion code explaining the solution presented in [this article](https://www.upgado.com/2018/06/22/finding-best-meals.html) on my website. If you haven't already, read the article for a detailed explanation of the purpose and design choices behind this program.
 
 
 ### Requirements:
